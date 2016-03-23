@@ -1,2 +1,24 @@
 # android_style
 android development style 安卓开发规范指南
+g8ehuiehuehe
+g8ehuiehuehe
+g8ehuiehuehe
+g8ehuiehuehe
+g8ehuiehueheg8ehuiehueheg8ehuiehuehe
+g8ehuiehueheg8ehuiehueheg8ehuiehuehev
+
+g8ehuiehueheg8ehuiehuehe
+vvvv
+g8ehuiehuehe
+v
+g8ehuiehuehe
+v
+g8ehuiehuehe
+v
+v
+v
+g8ehuiehuehe
+g8ehuiehuehe
+v
+g8ehuiehuehev
+g8ehuiehueheg8ehuiehueheg8ehuiehueheg8ehuiehueheg8ehuiehueheg8ehuiehueheg8ehuiehuehe
