@@ -1,4 +1,4 @@
-# 安卓开发规范指南
+# 安卓开发规范指南【[阅读](https://jasonbroker.gitbooks.io/android_style/content/)】
 
 保证代码规范，团队协作高效制定的安卓（java）开发规范指南。
 
